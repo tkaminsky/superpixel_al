@@ -1,26 +1,26 @@
-## Instructions
+# Instructions
 
-# File structure:
-tkaminsky
-|
-|--segmentation.py
-|
-|--superpixel_fcn
-|
-|--output
-|
-|--environment.yml
+## File structure:
+tkaminsky\\
+|\\
+|--segmentation.py\\
+|\\
+|--superpixel_fcn\\
+|\\
+|--output\\
+|\\
+|--environment.yml\\
 |...
 
-vcg_natural
-|--cityscape
-|  |
-|  |--gtFine
-|  |
-|  |--leftImg8bit
+vcg_natural\\
+|--cityscape\\
+|  |\\
+|  |--gtFine\\
+|  |\\
+|  |--leftImg8bit\\
 | ...
 
-# Setup
+## Setup
 
 1. Download the conda environment by running
 ```
